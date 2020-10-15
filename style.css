@@ -1,12 +1,44 @@
 body {
     background-color :pink ;
 }
-
 h1
 {
-    color :deeppink;
-
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+    background: #bc1a6b;
+    color: pink;
+    font-size: 50px;
+}
+p { color :deeppink;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+}
+main {
+    padding: 20px;
+    font-size: 18px;
 }
 h2 {
-    color : deeppink;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    color : black;
 }
+h3{
+    color :deeppink;
+    font-family: "Comic Sans MS";
+    font-size: 30px;
+
+}
+ul{
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+}
+li{
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+}
+
+
+
+
