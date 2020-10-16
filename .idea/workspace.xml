@@ -4,7 +4,6 @@
     <list default="true" id="b56fdb6e-c518-4a5c-891a-906747279443" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,13 +16,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/180485/markdown-warmup-css" />
+      </set>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="100" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="showToolbar" value="false" />
+  </component>
   <component name="ProjectId" id="1iuxnZxznSNg6K7NOUocUpJi4uT" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowProblems.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -49,11 +65,27 @@
       <workItem from="1602782289351" duration="628000" />
       <workItem from="1602786700982" duration="1376000" />
       <workItem from="1602788167796" duration="1172000" />
-      <workItem from="1602789680586" duration="2260000" />
+      <workItem from="1602789680586" duration="2613000" />
+      <workItem from="1602793851187" duration="424000" />
+      <workItem from="1602818519009" duration="41000" />
+      <workItem from="1602821912479" duration="247000" />
+      <workItem from="1602822973417" duration="90000" />
+      <workItem from="1602823096506" duration="250000" />
+      <workItem from="1602823366306" duration="488000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="265" key="#Scopes" timestamp="1602823104254">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="440" y="265" key="#Scopes/0.0.1280.800@0.0.1280.800" timestamp="1602823104254" />
+    <state x="430" y="185" key="#Web_Browsers" timestamp="1602822007921">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="430" y="185" key="#Web_Browsers/0.0.1280.800@0.0.1280.800" timestamp="1602822007921" />
   </component>
 </project>
