@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b56fdb6e-c518-4a5c-891a-906747279443" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +14,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +31,9 @@
         <option value="https://github.com/180485/markdown-warmup-css" />
       </set>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
     <hideBySeverity>
@@ -38,9 +50,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="ToolWindowProblems.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Angular2Html" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -49,6 +63,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,11 +87,19 @@
       <workItem from="1602822973417" duration="90000" />
       <workItem from="1602823096506" duration="250000" />
       <workItem from="1602823366306" duration="488000" />
+      <workItem from="1602826692123" duration="172000" />
+      <workItem from="1602839123724" duration="52000" />
+      <workItem from="1603035243091" duration="181000" />
+      <workItem from="1603112534733" duration="360000" />
+      <workItem from="1603164534890" duration="2860000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="265" key="#Scopes" timestamp="1602823104254">
@@ -87,5 +110,17 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="430" y="185" key="#Web_Browsers/0.0.1280.800@0.0.1280.800" timestamp="1602822007921" />
+    <state x="411" y="121" key="RollbackChangesDialog" timestamp="1602826003623">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="411" y="121" key="RollbackChangesDialog/0.23.1280.777@0.23.1280.777" timestamp="1602826003623" />
+    <state x="149" y="50" key="SettingsEditor" timestamp="1602826820413">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="149" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1602826820413" />
+    <state x="305" y="186" key="run.anything.popup" timestamp="1602825993097">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="186" key="run.anything.popup/0.23.1280.777@0.23.1280.777" timestamp="1602825993097" />
   </component>
 </project>
